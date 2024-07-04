@@ -1,5 +1,5 @@
 {
-  "name": "02counter",
+  "name": "calculator",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3000",
